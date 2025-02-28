@@ -8,7 +8,7 @@ Bùi Trung Đức
 
 ```
 
-# Phương thức hoạt động
+# UseCases
 
 # Sơ đồ Diagram của dự án
 ### Sơ đồ đăng nhập và chọn món
